@@ -2,5 +2,5 @@
 
 int main(){}
     printf("Desafio Xadrez|\n");
-    printf(Novo comit\n");
+    printf("Novo comit\n");
     
